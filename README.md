@@ -26,6 +26,6 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![eigen vectors](https://user-images.githubusercontent.com/118707363/211730972-76c33ca0-6c33-4a39-b0d2-224e17d0888d.png)
+![model](./eigen-op.png)
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python program.
